@@ -1,0 +1,4 @@
+Instalar dependencias
+ - npm install
+Correr Entorno de Desarrollo
+ - npm run dev
